@@ -1,0 +1,4 @@
+#define BAUD 2.0
+#define OUTPUT_POWER 10
+#define FREQUENCY 433.8
+#define MODULATION MOD_4FSK

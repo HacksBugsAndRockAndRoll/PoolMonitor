@@ -1,0 +1,9 @@
+CC1101        Arduino nano
+  1 (GND)-------(GND)
+  2 (3v3)-------(3v3)
+  3 (GDO0)--X--- 
+  4 (CSN)-------D10 (SS)
+  5 (SCK)-------D13 (SCK)
+  6 (MOSI)------D11 (MOSI)
+  7 (MISO)------D12 (MISO)
+  8 (GDO2)--X---
